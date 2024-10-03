@@ -35,8 +35,10 @@ function Home() {
             {/* left part */}
             <Left/> 
             {/* Right part */}
-            <div className="w-8/12 h-[94%] bg-bodyColor">
-              <About/>
+            <div className="w-8/12 h-[95%] bg-bodyColor scrollbar-thumb-[#646464] scrollbar-track-bodyColor">
+              <div className="w-full h-[96%] scrollbar-thin overflow-y-scroll ">
+                <About/>
+              </div>
             </div>
         </div>
     </div>
