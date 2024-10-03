@@ -1,7 +1,7 @@
 import fyImg from "./FinalYear.jpg";
 import iconImg from "./icon.jpg";
 import pmsImg from "./PMS.png";
-import profileImg from "./ProfileImg.png";
+import profileImg from "./ProfileImg.jpeg";
 import toDOImg from "./ToDo.jpg";
 import resume from "./Aman_Resume1.pdf";
 
