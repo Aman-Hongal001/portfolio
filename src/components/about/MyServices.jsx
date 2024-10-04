@@ -2,7 +2,7 @@ import React from "react";
 import ServicesCard from "./ServicesCard";
 import { BiCodeAlt } from "react-icons/bi";
 import { FaPython } from "react-icons/fa";
-import { AiFillAppstore, AiTwotoneAppstore } from "react-icons/ai";
+import { AiFillAppstore } from "react-icons/ai";
 import { FaBugSlash } from "react-icons/fa6";
 
 function MyServices() {

@@ -1,5 +1,4 @@
 import React from "react";
-import { BiCodeAlt } from "react-icons/bi";
 
 function ServicesCard({icon,title,subTitle}) {
   return (
