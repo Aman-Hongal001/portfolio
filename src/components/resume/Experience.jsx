@@ -11,7 +11,7 @@ function Experience() {
             <ResumeTitle title={<MdWork/>}  subTitle={"Experience"}/>
             <ResumeCard  
             badge="July 2023 - Sep 2023" 
-            title="Developer/Tester" 
+            title="Developer / Tester" 
             subTitle="Spintly India Pvt Ltd" 
             des={
                 <ul>

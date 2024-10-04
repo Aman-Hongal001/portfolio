@@ -1,13 +1,13 @@
 import React from "react";
 import Title from "../Home/Title";
-import { FiSend } from "react-icons/fi";
+// import { FiSend } from "react-icons/fi";
 
 function Contact() {
   return (
     <div>
       <Title title="Get" subtitle="in Touch"/>
-      <div className="p-6 flex justify-between gap-20">
-        <div className="w-1/2">
+      <div className="p-6 w-full flex flex-col md:flex-row justify-between gap-4 md:gap-10 lgl:gap-20">
+        <div className="w-full lgl:w-1/2">
           <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-600">
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">Address: </span>Ponda-Goa, India
           </p>
@@ -17,7 +17,7 @@ function Contact() {
           </p>
         </div>
 
-        <div className="w-1/2">
+        <div className="w-full lgl:w-1/2">
           <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-600">
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">Email: </span>amanhongal@gmail.com
           </p>
