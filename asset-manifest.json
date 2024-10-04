@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c72a2c2c.css",
+    "main.js": "/portfolio/static/js/main.d83fd858.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/ProfileImg_processed.jpg": "/portfolio/static/media/ProfileImg_processed.41df25b4f54aeff5976d.jpg",
+    "static/media/oopsPython.png": "/portfolio/static/media/oopsPython.03a59cefb7d76b249f77.png",
+    "static/media/bigPython.png": "/portfolio/static/media/bigPython.0c5621c08f34748d2eb9.png",
+    "static/media/iitBomC.png": "/portfolio/static/media/iitBomC.12b6a1c52c8367d5e279.png",
+    "static/media/iitBomPython.png": "/portfolio/static/media/iitBomPython.92227f5e32224b08f70f.png",
+    "static/media/iitBomHTML.png": "/portfolio/static/media/iitBomHTML.20450095c06c13902c05.png",
+    "static/media/Aman_Resume1.pdf": "/portfolio/static/media/Aman_Resume1.c8db72a156b1afc8a074.pdf",
+    "static/media/iitBomACPP.png": "/portfolio/static/media/iitBomACPP.b761dddf9a5cb185e986.png",
+    "static/media/FinalYear.jpg": "/portfolio/static/media/FinalYear.aac192c9692a73daf08e.jpg",
+    "static/media/coreJava.png": "/portfolio/static/media/coreJava.72993eca0c4dfb772b73.png",
+    "static/media/PMS.png": "/portfolio/static/media/PMS.dbc1214ecac1917d7441.png",
+    "static/media/nptelPM.jpeg": "/portfolio/static/media/nptelPM.e0bf590253ae12fb9a79.jpeg",
+    "static/media/nptelSPM.jpeg": "/portfolio/static/media/nptelSPM.62f9277f41ff0ad76dac.jpeg",
+    "static/media/nptelPython.jpeg": "/portfolio/static/media/nptelPython.54d2791379c3a0c83ecf.jpeg",
+    "static/media/IntenShip.png": "/portfolio/static/media/IntenShip.78b8c320de9512a0aa88.png",
+    "static/media/ToDo.jpg": "/portfolio/static/media/ToDo.61b76fb113a09b67557e.jpg",
+    "static/media/icon.jpg": "/portfolio/static/media/icon.c04d83cba1146a522095.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.c72a2c2c.css.map": "/portfolio/static/css/main.c72a2c2c.css.map",
+    "main.d83fd858.js.map": "/portfolio/static/js/main.d83fd858.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72a2c2c.css",
+    "static/js/main.d83fd858.js"
+  ]
+}
