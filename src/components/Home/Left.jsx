@@ -15,7 +15,7 @@ function Left() {
         delaySpeed:2000,
     });
   return (
-    <div className="w-5/12 h-full bg-bodyColor rounded-2xl shadow-testShwdow z-10">
+    <div className="w-5/12 h-full bg-bodyColor rounded-2xl shadow-testShwdow z-10 overflow-y-scroll scrollbar-none">
         <div className="w-full h-3/5">
             <img className="w-full h-full object-cover rounded-2xl" src={profileImg} alt="Profile Pic" loading= "priority" />
         </div>

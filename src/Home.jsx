@@ -5,6 +5,7 @@ import { IoIosPaper } from "react-icons/io";
 import { MdWork } from "react-icons/md";
 import { BsTelephonePlusFill } from "react-icons/bs";
 import About from "./components/about/About";
+import Resume from "./components/resume/Resume";
 
 function Home() {
   return(
@@ -36,8 +37,9 @@ function Home() {
             <Left/> 
             {/* Right part */}
             <div className="w-8/12 h-[95%] bg-bodyColor scrollbar-thumb-[#646464] scrollbar-track-bodyColor">
-              <div className="w-full h-[96%] scrollbar-thin overflow-y-scroll ">
-                <About/>
+              <div className="w-full h-[96%] scrollbar-thin overflow-y-scroll overflow-x-hidden">
+                {/* <About/> */}
+                <Resume/>
               </div>
             </div>
         </div>
