@@ -25,12 +25,18 @@ function Left() {
                 <h1 className="text-textColor text-4xl font-semibold">Aman AK Hongal</h1>
                 <p className="text-base text-designColor tracking-wide">{text}<Cursor cursorBlinking="false" cursorStyle="|"/></p>
                 <div className="flex justify-center gap-2 mt-2">
-                    <span className="hover:text-designColor duration-300 cursor-pointer text-xl"> <FaGithub/> </span>
-                    <span className="hover:text-designColor duration-300 cursor-pointer text-xl"> <FaLinkedin/> </span>
-                    <span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FiMail/></span>
-                    <span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FaWhatsapp/> </span>
-                    <span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FaFacebook/></span>
-                    <span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FaInstagram/> </span>
+                    <a href="https://github.com/Aman-Hongal001"><span className="hover:text-designColor duration-300 cursor-pointer text-xl"> <FaGithub/> </span></a>
+
+                    <a href="https://www.linkedin.com/in/aman-hongal-32503224a/"><span className="hover:text-designColor duration-300 cursor-pointer text-xl"> <FaLinkedin/> </span></a>
+
+                    <a href="mailto:amanhongal@gmail.com"><span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FiMail/></span></a>
+
+                    <a href="https://wa.me/qr/DDO525BBQQSLP1"><span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FaWhatsapp/> </span></a>
+
+                    <a href="https://www.facebook.com/share/9ER5wWDeoMHbgjM5/"><span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FaFacebook/></span></a>
+
+                    <a href="https://www.instagram.com/___aman_hongal_/profilecard/?igsh=MXM4cnMwaTE5NGZkdQ=="><span className="hover:text-designColor duration-300 cursor-pointer text-xl"><FaInstagram/> </span></a>
+
                 </div>
             </div>
 
