@@ -7,7 +7,7 @@ function AboutMe() {
             <div className="py-6">
                 <h2 className="font-semibold mb-2 text-lg">Hello! I'm Aman Abdulkarim Hongal</h2>
                 <p className="text-base leading-6">
-                    Software Engineer from India, Goa. I have good understanding of Fundamentals, Also I am good at Web Development. I love to talk with you about our unique.
+                    Software Engineer from Goa, India. I have a solid grasp of software fundamentals and a strong passion for web development and Automation. I'm always eager to explore new technologies and engage in meaningful conversations about unique ideas and innovations.
                 </p>
             </div>
         </div>
